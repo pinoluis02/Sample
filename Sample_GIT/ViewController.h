@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+@property(nonatomic) NSString *data;
 
 @end
 
