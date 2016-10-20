@@ -10,4 +10,6 @@
 
 @interface Login : NSObject
 
+@property(nonatomic) NSString *token;
+
 @end
