@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"Hello Git");
+    NSLog(@"I am in Login");
 }
 
 
